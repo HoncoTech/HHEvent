@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MTSCRADemo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4CE6B05308AFCE0FB6E2F6F0C0ACF4D063FD0632</string>
+				<key>dateExpires</key>
+				<string>15/03/22</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>GUM397JD47.com.amanomcgann.amanoeventsystem</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>GUM397JD47</string>
+				<key>com.apple.external-accessory.wireless-configuration</key>
+				<true/>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>MTSCRADemo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1dbb7f69-b28f-4cf4-b5cc-30bac6cb1a5c</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.amanomcgann.amanoeventsystem</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>GUM397JD47</string>
+				<key>name</key>
+				<string>Amano McGann Inc.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
