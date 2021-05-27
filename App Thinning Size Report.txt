@@ -1,0 +1,92 @@
+
+App Thinning Size Report for All Variants of MTSCRADemo
+
+Variant: MTSCRADemo-1684DEB0-89B8-4DA1-8C45-4D02264D13F8.ipa
+Supported variant descriptors: [device: iPad7,4, os-version: 13.0], [device: iPad8,4, os-version: 13.0], [device: iPad8,4, os-version: 14.0], [device: iPad7,3, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: iPad13,1, os-version: 14.0], [device: iPad6,7, os-version: 14.0], [device: iPad7,2, os-version: 13.0], [device: iPad8,7, os-version: 13.0], [device: iPad6,8, os-version: 14.0], [device: iPad8,11, os-version: 13.0], [device: iPad6,12, os-version: 14.0], [device: iPad8,1, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad8,2, os-version: 14.0], [device: iPad5,2, os-version: 13.0], [device: iPad8,10, os-version: 14.0], [device: iPad5,4, os-version: 13.0], [device: iPad7,1, os-version: 14.0], [device: iPad8,9, os-version: 14.0], [device: iPad11,2, os-version: 14.0], [device: iPad7,1, os-version: 13.0], [device: iPad11,6, os-version: 14.0], [device: iPad7,6, os-version: 13.0], [device: iPad8,7, os-version: 14.0], [device: iPad8,12, os-version: 14.0], [device: iPad8,8, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad8,2, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad13,2, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad7,5, os-version: 14.0], [device: iPad8,6, os-version: 13.0], [device: iPad8,10, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad11,4, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPad5,3, os-version: 13.0], [device: iPad7,11, os-version: 13.0], [device: iPad11,7, os-version: 14.0], [device: iPad11,4, os-version: 14.0], [device: iPad8,1, os-version: 14.0], [device: iPad8,6, os-version: 14.0], [device: iPad8,9, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad7,12, os-version: 14.0], [device: iPad6,7, os-version: 13.0], [device: iPad8,5, os-version: 14.0], [device: iPad8,3, os-version: 13.0], [device: iPad7,6, os-version: 14.0], [device: iPad6,8, os-version: 13.0], [device: iPad8,3, os-version: 14.0], [device: iPad11,2, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad7,2, os-version: 14.0], [device: iPad5,3, os-version: 14.0], [device: iPad6,11, os-version: 14.0], [device: iPad5,2, os-version: 14.0], [device: iPad7,12, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad5,1, os-version: 13.0], [device: iPad7,4, os-version: 14.0], [device: iPad5,1, os-version: 14.0], [device: iPad8,8, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad5,4, os-version: 14.0], [device: iPad7,11, os-version: 14.0], and [device: iPad11,3, os-version: 14.0]
+App + On Demand Resources size: 254 KB compressed, 705 KB uncompressed
+App size: 254 KB compressed, 705 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: MTSCRADemo-1A7FDA05-0D05-4DF4-ADC6-266E47171BCD.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 12.0], [device: iPhone9,1, os-version: 12.2], [device: iPod7,1, os-version: 12.0], [device: iPhone7,2, os-version: 12.0], [device: iPhone11,8, os-version: 12.2], [device: iPhone11,8, os-version: 12.0], [device: iPhone6,1, os-version: 12.0], [device: iPhone9,3, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], [device: iPhone8,4, os-version: 12.0], [device: iPhone6,2, os-version: 12.0], [device: iPhone8,1, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], [device: iPhone10,4, os-version: 12.0], [device: iPhone10,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPhone10,1, os-version: 12.0], [device: iPod9,1, os-version: 12.2], [device: iPhone9,3, os-version: 12.0], [device: iPhone6,1, os-version: 12.2], [device: iPhone10,4, os-version: 12.2], and [device: iPhone9,1, os-version: 12.0]
+App + On Demand Resources size: 259 KB compressed, 710 KB uncompressed
+App size: 259 KB compressed, 710 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: MTSCRADemo-1D6BF51E-7DC0-46A1-BB63-7271D1FFF562.ipa
+Supported variant descriptors: [device: iPod5,1, os-version: 9.0], [device: iPhone5,4, os-version: 9.0], [device: iPhone5,1, os-version: 9.0], [device: iPhone5,2, os-version: 9.0], [device: iPhone5,3, os-version: 9.0], and [device: iPhone4,1, os-version: 9.0]
+App + On Demand Resources size: 269 KB compressed, 632 KB uncompressed
+App size: 269 KB compressed, 632 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: MTSCRADemo-26770EFE-88CC-4AE3-8421-CE4D968A5B53.ipa
+Supported variant descriptors: [device: iPad8,4, os-version: 12.0], [device: iPad4,9, os-version: 12.2], [device: iPad8,7, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad4,4, os-version: 12.2], [device: iPad8,8, os-version: 12.0], [device: iPad8,6, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad8,1, os-version: 12.0], [device: iPad7,3, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad5,1, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad4,5, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad8,2, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad4,9, os-version: 12.0], [device: iPad5,2, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad11,1, os-version: 12.2], [device: iPad6,11, os-version: 12.0], [device: iPad8,7, os-version: 12.2], [device: iPad7,2, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad8,3, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad7,5, os-version: 12.0], [device: iPad6,8, os-version: 12.0], [device: iPad7,3, os-version: 12.2], [device: iPad8,6, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad11,3, os-version: 12.2], [device: iPad7,1, os-version: 12.0], [device: iPad7,1, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad4,2, os-version: 12.0], [device: iPad7,2, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad5,3, os-version: 12.0], [device: iPad4,2, os-version: 12.2], [device: iPad8,2, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad6,4, os-version: 12.2], [device: iPad7,6, os-version: 12.0], and [device: iPad8,5, os-version: 12.0]
+App + On Demand Resources size: 254 KB compressed, 706 KB uncompressed
+App size: 254 KB compressed, 706 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: MTSCRADemo-32185CC3-DCDB-4110-8FD0-9F64731ECAE3.ipa
+Supported variant descriptors: [device: iPad3,2, os-version: 9.0], [device: iPad3,5, os-version: 9.0], [device: iPad3,1, os-version: 9.0], [device: iPad3,4, os-version: 9.0], [device: iPad3,6, os-version: 9.0], and [device: iPad3,3, os-version: 9.0]
+App + On Demand Resources size: 264 KB compressed, 626 KB uncompressed
+App size: 264 KB compressed, 626 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: MTSCRADemo-582F95A8-4F53-45CA-8560-C1B26C2F600D.ipa
+Supported variant descriptors: [device: iPhone10,1, os-version: 13.0], [device: iPhone8,1, os-version: 14.0], [device: iPhone11,8, os-version: 13.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone12,1, os-version: 13.0], [device: iPhone12,8, os-version: 13.0], [device: iPhone8,1, os-version: 13.0], [device: iPhone12,1, os-version: 14.0], [device: iPhone8,4, os-version: 14.0], [device: iPhone12,8, os-version: 14.0], [device: iPhone11,8, os-version: 14.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone10,1, os-version: 14.0], [device: iPod9,1, os-version: 14.0], [device: iPhone9,1, os-version: 14.0], [device: iPod9,1, os-version: 13.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone10,4, os-version: 14.0], [device: iPhone9,3, os-version: 14.0], and [device: iPhone8,4, os-version: 13.0]
+App + On Demand Resources size: 259 KB compressed, 710 KB uncompressed
+App size: 259 KB compressed, 710 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: MTSCRADemo-70E4BB25-624C-474D-B3BC-D7855986DAF7.ipa
+Supported variant descriptors: [device: iPhone10,2, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone10,5, os-version: 12.0], [device: iPhone8,2, os-version: 12.2], [device: iPhone7,1, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone7,1, os-version: 12.2], [device: iPhone10,3, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone8,2, os-version: 12.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone11,6, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone10,6, os-version: 12.0], [device: iPhone11,2, os-version: 12.2], [device: iPhone9,2, os-version: 12.0], [device: iPhone10,3, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone9,4, os-version: 12.2], [device: iPhone9,4, os-version: 12.0], and [device: iPhone10,6, os-version: 12.2]
+App + On Demand Resources size: 259 KB compressed, 710 KB uncompressed
+App size: 259 KB compressed, 710 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: MTSCRADemo-A7A04C0F-6185-4E61-8FBA-114E6D2DF017.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 10.0], [device: iPhone10,3, os-version: 11.0], [device: iPhone10,5, os-version: 11.0], [device: iPhone7,1, os-version: 9.0], [device: iPhone8,2, os-version: 9.0], [device: iPhone10,2, os-version: 11.0], [device: iPhone10,6, os-version: 11.0], and [device: iPhone9,2, os-version: 10.0]
+App + On Demand Resources size: 261 KB compressed, 713 KB uncompressed
+App size: 261 KB compressed, 713 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: MTSCRADemo-B20E474C-E916-4503-BB09-A0FCD51D015B.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 10.0], [device: iPhone8,1, os-version: 9.0], [device: iPod7,1, os-version: 9.0], [device: iPhone6,1, os-version: 9.0], [device: iPhone9,1, os-version: 10.0], [device: iPhone6,2, os-version: 9.0], [device: iPhone10,1, os-version: 11.0], [device: iPhone7,2, os-version: 9.0], [device: iPhone10,4, os-version: 11.0], and [device: iPhone8,4, os-version: 9.0]
+App + On Demand Resources size: 261 KB compressed, 713 KB uncompressed
+App size: 261 KB compressed, 713 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: MTSCRADemo-B62A4706-8D07-480A-AD33-71AB89D7F1F5.ipa
+Supported variant descriptors: [device: iPad2,2, os-version: 9.0], [device: iPad2,1, os-version: 9.0], [device: iPad2,4, os-version: 9.0], [device: iPad2,5, os-version: 9.0], [device: iPad2,3, os-version: 9.0], [device: iPad2,6, os-version: 9.0], and [device: iPad2,7, os-version: 9.0]
+App + On Demand Resources size: 264 KB compressed, 626 KB uncompressed
+App size: 264 KB compressed, 626 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: MTSCRADemo-CD7B32AB-19B5-41DF-A193-73F8D4E3ACBB.ipa
+Supported variant descriptors: [device: iPad4,8, os-version: 9.0], [device: iPad5,3, os-version: 9.0], [device: iPad7,3, os-version: 10.0], [device: iPad4,7, os-version: 9.0], [device: iPad6,3, os-version: 9.0], [device: iPad7,4, os-version: 10.0], [device: iPad7,5, os-version: 11.0], [device: iPad7,6, os-version: 11.0], [device: iPad6,4, os-version: 9.0], [device: iPad7,2, os-version: 10.0], [device: iPad4,1, os-version: 9.0], [device: iPad4,6, os-version: 9.0], [device: iPad4,4, os-version: 9.0], [device: iPad5,4, os-version: 9.0], [device: iPad4,3, os-version: 9.0], [device: iPad6,7, os-version: 9.0], [device: iPad6,12, os-version: 10.0], [device: iPad4,2, os-version: 9.0], [device: iPad5,1, os-version: 9.0], [device: iPad6,11, os-version: 10.0], [device: iPad6,8, os-version: 9.0], [device: iPad4,5, os-version: 9.0], [device: iPad5,2, os-version: 9.0], [device: iPad4,9, os-version: 9.0], and [device: iPad7,1, os-version: 10.0]
+App + On Demand Resources size: 256 KB compressed, 708 KB uncompressed
+App size: 256 KB compressed, 708 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: MTSCRADemo-DF01AD44-1C40-45EF-915A-B612AF4799E7.ipa
+Supported variant descriptors: [device: iPhone13,4, os-version: 14.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone8,2, os-version: 13.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone8,2, os-version: 14.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone11,6, os-version: 13.0], and [device: iPhone10,5, os-version: 14.0]
+App + On Demand Resources size: 259 KB compressed, 710 KB uncompressed
+App size: 259 KB compressed, 710 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: MTSCRADemo.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 521 KB compressed, 1.3 MB uncompressed
+App size: 521 KB compressed, 1.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
