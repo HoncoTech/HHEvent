@@ -1,0 +1,106 @@
+
+App Thinning Size Report for All Variants of AmanoEvent
+
+Variant: AmanoEvent-0CE059CB-30F1-4468-86A9-498E64823E3B.ipa
+Supported variant descriptors: [device: iPhone10,2, os-version: 12.2], [device: iPhone10,2, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone10,5, os-version: 12.0], [device: iPhone11,2, os-version: 12.2], [device: iPhone9,4, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], and [device: iPhone10,3, os-version: 12.2]
+App + On Demand Resources size: 15.3 MB compressed, 59.1 MB uncompressed
+App size: 15.3 MB compressed, 59.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent-16042141-5E06-4BB8-8427-26CA6CA53C4A.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0] and [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 15.2 MB compressed, 59 MB uncompressed
+App size: 15.2 MB compressed, 59 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent-3101305B-3C7A-4F23-9384-58E0E5325F79.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 13.0], [device: iPhone8,4, os-version: 13.0], [device: iPod9,1, os-version: 14.0], [device: iPod9,1, os-version: 13.0], [device: iPhone8,1, os-version: 14.0], and [device: iPhone8,4, os-version: 14.0]
+App + On Demand Resources size: 15.2 MB compressed, 59 MB uncompressed
+App size: 15.2 MB compressed, 59 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent-3CD53A8D-E8FB-4568-9AD1-E0752AE3BCA9.ipa
+Supported variant descriptors: [device: iPad7,11, os-version: 14.0], [device: iPad7,5, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad7,11, os-version: 13.0], [device: iPad7,6, os-version: 13.0], [device: iPad11,7, os-version: 14.0], [device: iPad5,1, os-version: 14.0], [device: iPad5,2, os-version: 13.0], [device: iPad6,11, os-version: 14.0], [device: iPad5,3, os-version: 13.0], [device: iPad6,7, os-version: 13.0], [device: iPad6,12, os-version: 14.0], [device: iPad5,4, os-version: 14.0], [device: iPad5,4, os-version: 13.0], [device: iPad7,5, os-version: 14.0], [device: iPad5,2, os-version: 14.0], [device: iPad5,3, os-version: 14.0], [device: iPad7,6, os-version: 14.0], [device: iPad11,6, os-version: 14.0], [device: iPad6,12, os-version: 13.0], [device: iPad6,7, os-version: 14.0], [device: iPad7,12, os-version: 14.0], [device: iPad6,8, os-version: 14.0], [device: iPad6,11, os-version: 13.0], [device: iPad5,1, os-version: 13.0], and [device: iPad6,8, os-version: 13.0]
+App + On Demand Resources size: 15.2 MB compressed, 59 MB uncompressed
+App size: 15.2 MB compressed, 59 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent-4DAEA4E0-63E7-4FF9-ACB8-6EB6D742E3B6.ipa
+Supported variant descriptors: [device: iPhone6,1, os-version: 12.0], [device: iPhone7,2, os-version: 12.2], [device: iPhone7,2, os-version: 12.0], [device: iPhone6,1, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPhone8,4, os-version: 12.0], [device: iPod7,1, os-version: 12.0], [device: iPhone6,2, os-version: 12.2], [device: iPhone8,1, os-version: 12.0], [device: iPod9,1, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], and [device: iPhone6,2, os-version: 12.0]
+App + On Demand Resources size: 15.2 MB compressed, 59 MB uncompressed
+App size: 15.2 MB compressed, 59 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent-86891456-C081-4489-BD81-9CF006A54110.ipa
+Supported variant descriptors: [device: iPad8,5, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad6,3, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad7,3, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad8,8, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad8,8, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad7,3, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad7,1, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPad11,4, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad8,3, os-version: 12.0], [device: iPad11,1, os-version: 12.2], [device: iPad7,2, os-version: 12.0], [device: iPad6,4, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad8,6, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad8,7, os-version: 12.2], and [device: iPad8,1, os-version: 12.2]
+App + On Demand Resources size: 15.2 MB compressed, 59 MB uncompressed
+App size: 15.2 MB compressed, 59 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent-90D24118-0F38-46E7-A30C-09E608C1281C.ipa
+Supported variant descriptors: [device: iPad8,10, os-version: 14.0], [device: iPad8,5, os-version: 14.0], [device: iPad8,7, os-version: 14.0], [device: iPad8,8, os-version: 14.0], [device: iPad6,4, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad8,1, os-version: 14.0], [device: iPad11,2, os-version: 13.0], [device: iPad7,1, os-version: 14.0], [device: iPad8,10, os-version: 13.0], [device: iPad8,11, os-version: 14.0], [device: iPad8,2, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad11,4, os-version: 14.0], [device: iPad13,2, os-version: 14.0], [device: iPad8,9, os-version: 14.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,11, os-version: 13.0], [device: iPad11,2, os-version: 14.0], [device: iPad8,2, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad7,1, os-version: 13.0], [device: iPad7,4, os-version: 13.0], [device: iPad8,3, os-version: 13.0], [device: iPad8,4, os-version: 14.0], [device: iPad8,6, os-version: 14.0], [device: iPad13,1, os-version: 14.0], [device: iPad7,4, os-version: 14.0], [device: iPad8,4, os-version: 13.0], [device: iPad7,3, os-version: 14.0], [device: iPad7,2, os-version: 14.0], [device: iPad11,3, os-version: 14.0], [device: iPad8,7, os-version: 13.0], [device: iPad8,12, os-version: 14.0], [device: iPad8,6, os-version: 13.0], [device: iPad8,3, os-version: 14.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad11,4, os-version: 13.0], [device: iPad8,9, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad6,3, os-version: 13.0], and [device: iPad8,1, os-version: 13.0]
+App + On Demand Resources size: 15.2 MB compressed, 59 MB uncompressed
+App size: 15.2 MB compressed, 59 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent-B5F94E21-B192-4680-9751-A71308773696.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 13.0], [device: iPhone9,3, os-version: 14.0], [device: iPhone10,1, os-version: 14.0], [device: iPhone12,8, os-version: 13.0], [device: iPhone9,1, os-version: 14.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone10,4, os-version: 14.0], [device: iPhone12,8, os-version: 14.0], [device: iPhone9,3, os-version: 13.0], and [device: iPhone10,1, os-version: 13.0]
+App + On Demand Resources size: 15.2 MB compressed, 59 MB uncompressed
+App size: 15.2 MB compressed, 59 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent-B78CECD3-2D12-4376-A81F-78ABCD66F476.ipa
+Supported variant descriptors: [device: iPhone10,6, os-version: 14.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone10,5, os-version: 14.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone10,2, os-version: 13.0], and [device: iPhone10,3, os-version: 13.0]
+App + On Demand Resources size: 15.3 MB compressed, 59.1 MB uncompressed
+App size: 15.3 MB compressed, 59.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent-BC3084F6-DD1E-4D90-80C8-EF3F015113FB.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.0], [device: iPhone7,1, os-version: 12.0], [device: iPhone8,2, os-version: 12.2], and [device: iPhone7,1, os-version: 12.2]
+App + On Demand Resources size: 15.3 MB compressed, 59.1 MB uncompressed
+App size: 15.3 MB compressed, 59.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent-D4AE6F2E-E81D-4CD5-87E2-3F67E2E16288.ipa
+Supported variant descriptors: [device: iPad4,3, os-version: 12.0], [device: iPad4,2, os-version: 12.2], [device: iPad4,4, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad4,5, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad4,7, os-version: 12.0], [device: iPad6,7, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad4,2, os-version: 12.0], [device: iPad5,3, os-version: 12.2], [device: iPad6,12, os-version: 12.0], [device: iPad6,11, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad5,4, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad4,3, os-version: 12.2], [device: iPad4,8, os-version: 12.0], [device: iPad5,2, os-version: 12.2], [device: iPad4,6, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad5,1, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad6,8, os-version: 12.0], [device: iPad5,4, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad4,5, os-version: 12.0], [device: iPad6,8, os-version: 12.2], [device: iPad4,1, os-version: 12.0], [device: iPad7,5, os-version: 12.2], [device: iPad7,5, os-version: 12.0], [device: iPad4,7, os-version: 12.2], [device: iPad5,2, os-version: 12.0], and [device: iPad7,6, os-version: 12.0]
+App + On Demand Resources size: 15.2 MB compressed, 59 MB uncompressed
+App size: 15.2 MB compressed, 59 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent-D9343368-F378-4F75-A0C8-D196AB701A9B.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 13.0], [device: iPhone11,8, os-version: 13.0], [device: iPhone12,1, os-version: 14.0], and [device: iPhone11,8, os-version: 14.0]
+App + On Demand Resources size: 15.2 MB compressed, 59 MB uncompressed
+App size: 15.2 MB compressed, 59 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent-F8505E44-3DC1-4B56-82EC-4F6F15B821E9.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 14.0] and [device: iPhone8,2, os-version: 13.0]
+App + On Demand Resources size: 15.3 MB compressed, 59.1 MB uncompressed
+App size: 15.3 MB compressed, 59.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent-FF9871EC-2ABD-48F2-A69B-BBD68E4EFE98.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 12.0], [device: iPhone10,1, os-version: 12.2], [device: iPhone9,3, os-version: 12.0], [device: iPhone10,4, os-version: 12.2], [device: iPhone9,1, os-version: 12.0], [device: iPhone9,3, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], and [device: iPhone10,1, os-version: 12.0]
+App + On Demand Resources size: 15.2 MB compressed, 59 MB uncompressed
+App size: 15.2 MB compressed, 59 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 15.7 MB compressed, 59.6 MB uncompressed
+App size: 15.7 MB compressed, 59.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
