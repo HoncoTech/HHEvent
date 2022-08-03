@@ -1,0 +1,15 @@
+
+App Thinning Size Report for All Variants of AmanoEvent
+
+Variant: AmanoEvent-6C5289C4-B163-4160-A6AC-337191DA309D.ipa
+Supported variant descriptors: [device: iPhone12,8, os-version: 14.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone9,1, os-version: 14.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone10,4, os-version: 14.0], [device: iPhone12,8, os-version: 13.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone9,3, os-version: 14.0], [device: iPhone10,1, os-version: 14.0], and [device: iPhone10,1, os-version: 13.0]
+App + On Demand Resources size: 15.4 MB compressed, 60 MB uncompressed
+App size: 15.4 MB compressed, 60 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AmanoEvent-F0725080-7E79-4A53-B1FE-7071ADC3F14E.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 15.0], [device: iPhone9,1, os-version: 15.0], [device: iPhone10,1, os-version: 15.0], [device: iPhone10,4, os-version: 15.0], and [device: iPhone12,8, os-version: 15.0]
+App + On Demand Resources size: 15.4 MB compressed, 60 MB uncompressed
+App size: 15.4 MB compressed, 60 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
